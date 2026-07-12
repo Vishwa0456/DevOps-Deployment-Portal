@@ -16,3 +16,12 @@ node_modules/
 # OS files
 .DS_Store
 Thumbs.db
+
+# Local notes (Do not upload to GitHub)
+notes/
+
+# Sensitive files
+*.pem
+*.key
+*.env
+credentials.txt
